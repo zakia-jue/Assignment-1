@@ -1,0 +1,66 @@
+*{ margin: 0px;
+padding: 0px;
+outline: 0px;
+box-sizing: border-box;
+background-color: #264653;}
+/* custom fonts in css */
+body{font-family: "Poppins", sans-serif;}
+
+/* bannar area start here */
+.banar-area{margin-left: 50px;
+margin-right: 50px;
+background-color: #264653;
+height: 650px;
+}
+
+.navbar-text{display: flex;
+   justify-content: flex-end;
+   list-style-type: none;
+ margin-top: 25px;
+  gap: 50px; color: white;
+font-size: 18px;}
+
+.navbar-text:hover{cursor: pointer;}
+.bannar-button:hover{cursor: pointer;
+background-color: rgb(210, 92, 49);}
+
+.bannar-button{color: white;
+background-color: rgba(250, 104, 51, 0.904);
+padding: 10px;
+padding-left: 25px;
+padding-right: 25px;
+border-radius: 8px;
+border-color:  rgba(250, 104, 51, 0.904);
+font-size: 15px;}
+
+.main-banar{display: flex;
+color: white;}
+.banar-image{padding-top: 65px;}
+.banar-text{padding-top: 150px;}
+#bannar-heading{font-size: 50px;
+font-weight: 600;}
+#para-1{padding-right: 50px;
+padding-bottom: 10px;}
+#para-2{padding-right: 50px;
+padding-top: 10px;}
+
+.bannar-button-2{color: white;
+   background-color: rgba(250, 104, 51, 0.904);
+   padding: 10px;
+   padding-left: 50px;
+   padding-right: 50px;
+  margin-top: 15px;
+   border-radius: 8px;
+   border-color:  rgba(250, 104, 51, 0.904);
+   font-size: 15px;}
+.bannar-button-2:hover{cursor: pointer;
+   background-color: rgb(210, 92, 49);}
+
+
+
+
+
+
+
+
+

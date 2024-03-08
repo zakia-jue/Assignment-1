@@ -217,6 +217,38 @@ font-weight: 500;}
    font-weight: 500;}
 /* faq section end here */
 
+/* services section start hare */
+.service-section{height: 1250px;}
+
+.service-area-heading{font-size: 50px;
+   font-weight: 600; 
+text-align: center;
+margin-bottom: 50px;
+padding-bottom: 40px;
+color: rgb(234, 103, 55);}
+
+.service-img{height: 235px;
+   width: 300px;}
+
+.services{border: 1px solid lightgrey;
+   border-radius: 5px;
+   width: 350px; text-align: center;
+   height: 490px;
+   padding-top: 15px;}
+
+.service-main-div{display: grid;
+grid-template-columns: auto auto auto; 
+gap: 35px; padding-left: 25px;
+padding-right: 25px;}
+
+.service-name{ font-size: 20px;
+color: rgb(234, 103, 55) ;
+margin-top: 15px;}
+
+.service-para{padding-left: 35px;
+padding-right: 35px; padding-top: 10px;}
+
+/* services section end hare */
 
 
 

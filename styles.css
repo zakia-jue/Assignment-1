@@ -265,7 +265,7 @@ background-color: yellowgreen;}
 font-size: 18px; font-weight: 250; 
 padding-left: 10px;}
 
-.contact-input-area{background-color: rgb(73, 72, 72);
+.contact-input-area{background-color: rgb(53, 52, 52);
 padding: 60px; padding-left: 120px; 
 display: flex;
 flex-direction: column;
@@ -286,9 +286,29 @@ background-color: yellowgreen;}
 
 /* contect section end here  */
 
+/* footer area start here */
 
 
+.footer-img{height: 60px;
+width: 115px;
+padding-bottom: 15px;}
 
+.web-footer{ color: white;
+background-color: rgb(30, 29, 29);
+border: 2px solid black;
+height: 250px;}
 
+#footer-text-1{font-size: 28px;
+padding-top: 10px;}
+
+#footer-text-2{font-size: 15px;}
+#footer-text-3{font-size: 15px;}
+
+.app-heading{font-size: 28px; 
+padding-bottom: 10px;}
+
+.web-footer{padding-left: 50px;}
+
+/* footer area end here  */
 
 

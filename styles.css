@@ -85,6 +85,65 @@ justify-content: center;
 gap: 150px;
 padding-top: 100px;}
 /* featured area end here */
+/* latest model area start here */
+.latest-models{height: 800px;}
+
+.latest-bike-1{height: 235px;
+   width: 300px;}
+.latest-bike-2{height: 235px;
+   width: 300px;}
+.latest-bike-3{height: 235px;
+   width: 300px;}
+.latest-heading{font-size: 50px;
+   font-weight: 600; 
+text-align: center;}
+
+.bike-1-detials{ border: 1px solid black;
+width: 350px; text-align: center;
+height: 560px;
+padding-top: 15px;}
+
+.bike-2-detials{border: 1px solid black;
+width: 350px; height: 560px;
+text-align: center;
+padding-top: 15px;}
+
+.bike-3-detials{border: 1px solid black;
+width: 350px; text-align: center;
+height: 560px;
+padding-top: 15px;}
+
+.main-div{ margin-top: 50px;
+display: flex; 
+flex-direction: row;
+justify-content: center;
+gap: 22px;}
+
+.box-heading{font-size: 28px;
+font-weight: 600; margin-top: 8px;
+text-align: left;margin-left: 15px;}
+
+.box-paragraph{font-size: 16px;
+font-weight: 400; color: gray;
+text-align: left; margin-left: 15px; }
+
+#box-heading-2{padding-right: 90px;}
+
+.box-button{margin-top: 60px;
+border: 1px solid orangered; 
+padding: 15px 30px 15px 30px;
+font-size: 20px;
+color: orangered;
+margin-right: 150px;
+border-radius: 5px;}
+#button-b{margin-top: 90px;}
+#button-a{margin-top: 107px;}
+
+.box-button:hover{cursor: pointer;
+background-color: rgb(234, 103, 55);
+color: white; border-radius: 5px;}
+/* latest model area end here  */
+
 
 
 

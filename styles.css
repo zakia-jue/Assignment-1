@@ -218,7 +218,7 @@ font-weight: 500;}
 /* faq section end here */
 
 /* services section start hare */
-.service-section{height: 1250px;}
+.service-section{height: 1220px;}
 
 .service-area-heading{font-size: 50px;
    font-weight: 600; 
@@ -249,13 +249,42 @@ margin-top: 15px;}
 padding-right: 35px; padding-top: 10px;}
 
 /* services section end hare */
+/* contect section start here */
+.contect-area{ border: 2px solid gray;
+height: 650px; margin: 50px;}
+
+.contact-header{font-size: 50px;
+   font-weight: 600; 
+text-align: center;
+border: 2px solid yellowgreen;
+padding: 12px; color: white; 
+background-color: yellowgreen;}
+
+.contect-inputs{height: 70px;
+   width: 800px; border: 1px solid lightgray;
+font-size: 18px; font-weight: 250; 
+padding-left: 10px;}
+
+.contact-input-area{background-color: rgb(73, 72, 72);
+padding: 60px; padding-left: 120px; 
+display: flex;
+flex-direction: column;
+gap: 12px;}
+
+.contect-button{height: 70px;
+width: 220px; font-size: 24px; background-color: green;
+border-radius: 5px; color: white;}
+
+.contect-button:hover{cursor: pointer;
+background-color: rgb(16, 100, 16);}
 
 
+.button-div{border: 2px solid yellowgreen;
+height: 107px; padding-left: 400px;
+padding-top: 15px;
+background-color: yellowgreen;}
 
-
-
-
-
+/* contect section end here  */
 
 
 

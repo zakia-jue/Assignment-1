@@ -1,22 +1,20 @@
 *{ margin: 0px;
 padding: 0px;
 outline: 0px;
-box-sizing: border-box;
-background-color: #264653;}
+box-sizing: border-box;}
 /* custom fonts in css */
 body{font-family: "Poppins", sans-serif;}
 
 /* bannar area start here */
-.banar-area{margin-left: 50px;
-margin-right: 50px;
-background-color: #264653;
-height: 650px;
+.banar-area{background-color: #264653;
+height: 650px; padding-top: 30px;
+padding-left: 50px;
+padding-right: 50px;
 }
 
 .navbar-text{display: flex;
    justify-content: flex-end;
    list-style-type: none;
- margin-top: 25px;
   gap: 50px; color: white;
 font-size: 18px;}
 
@@ -56,6 +54,39 @@ padding-top: 10px;}
 .bannar-button-2:hover{cursor: pointer;
    background-color: rgb(210, 92, 49);}
 /* bannar area end here */
+/* fetured area start here */
+.fetured-area{height: 550px;
+padding-top: 60px;}
+
+.fetured-text{text-align: center;}
+.fetured-heading{font-size: 50px;
+font-weight: 600;}
+.f-heading-2{color: rgb(210, 92, 49);}
+.ruler-1{height: 1px;
+   width: 80px;
+   background-color: rgb(234, 103, 55);
+   color: rgb(235, 92, 40);
+   outline: none;
+   border: none;
+   margin: 2px auto;}
+
+.f-bike-1{height: 220px;
+width: 220px;}
+
+.f-bike-2{height: 220px;
+   width: 220px;}
+
+.f-bike-3{height: 220px;
+   width: 220px;}
+
+.fetured-bikes{display: flex;
+flex-direction: row;
+justify-content: center;
+gap: 150px;
+padding-top: 100px;}
+/* featured area end here */
+
+
 
 
 

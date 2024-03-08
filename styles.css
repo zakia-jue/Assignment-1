@@ -144,7 +144,45 @@ background-color: rgb(234, 103, 55);
 color: white; border-radius: 5px;}
 /* latest model area end here  */
 
+/* clients review area start here */
+.clients{height: 800px;}
 
+.clients-area-header{font-size: 50px;
+   font-weight: 600; 
+text-align: center;
+color:rgb(234, 103, 55) ;}
+
+.client-review{border: 1px solid lightgrey;
+   width: 300px; text-align: center;
+   height: 510px; border-radius: 5px;
+   padding-top: 15px;
+padding-top: 50px;}
+
+.client-image{height: 140px;
+width: 140px;}
+#img-set{border-radius: 100%;}
+
+.clints-main-div{margin-top: 50px;
+   display: flex; 
+   flex-direction: row;
+   justify-content: center;
+   gap: 45px;}
+
+.client-text{font-weight: 400;
+color: gray;
+padding: 10px 20px 10px 20px;}
+
+.fa-solid{color: rgb(234, 103, 55);}
+.fa-regular{color: rgb(234, 103, 55);}
+
+.client-name{ color: rgb(73, 204, 247);
+font-size: 14px; font-weight: 550; 
+padding: 10px;}
+
+.client-job{font-size: 15px;
+font-weight: 600;
+padding-top: 18px;}
+/* clients review area end here  */
 
 
 

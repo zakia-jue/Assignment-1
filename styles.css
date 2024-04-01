@@ -140,7 +140,7 @@ border-radius: 5px;}
 #button-a{margin-top: 107px;}
 
 .box-button:hover{cursor: pointer;
-background-color: rgb(234, 103, 55);
+background-color: rgba(237, 127, 88, 0.889);
 color: white; border-radius: 5px;}
 /* latest model area end here  */
 
@@ -250,64 +250,85 @@ padding-right: 35px; padding-top: 10px;}
 
 /* services section end hare */
 /* contect section start here */
-.contect-area{ border: 2px solid gray;
-height: 650px; margin: 50px;}
+.contect-area{ border: 2px solid white;
+height: 640px; margin: 50px;}
 
 .contact-header{font-size: 50px;
    font-weight: 600; 
 text-align: center;
-border: 2px solid yellowgreen;
-padding: 12px; color: white; 
-background-color: yellowgreen;}
+border: 2px solid  rgba(153, 205, 50, 0.837);
+padding: 12px; 
+color: white; 
+background-color: rgba(153, 205, 50, 0.837);}
 
 .contect-inputs{height: 70px;
    width: 800px; border: 1px solid lightgray;
 font-size: 18px; font-weight: 250; 
 padding-left: 10px;}
 
-.contact-input-area{background-color: rgb(53, 52, 52);
-padding: 60px; padding-left: 120px; 
+.contect-inputs-m{height: 140px;
+   width: 800px; border: 1px solid lightgray;
+font-size: 18px; font-weight: 250; 
+padding-left: 10px;
+padding-bottom: 60px;}
+
+.contact-input-area{background-color: rgba(53, 52, 52, 0.831);
+padding: 20px; padding-left: 120px; 
 display: flex;
 flex-direction: column;
 gap: 12px;}
 
 .contect-button{height: 70px;
-width: 220px; font-size: 24px; background-color: green;
+width: 220px; font-size: 24px; background-color: rgba(5, 158, 5, 0.702);
 border-radius: 5px; color: white;}
 
 .contect-button:hover{cursor: pointer;
-background-color: rgb(16, 100, 16);}
+background-color: rgba(9, 130, 9, 0.852);}
 
 
-.button-div{border: 2px solid yellowgreen;
+.button-div{border: 2px solid  rgba(153, 205, 50, 0.837)wgreen;
 height: 107px; padding-left: 400px;
 padding-top: 15px;
-background-color: yellowgreen;}
+background-color:  rgba(153, 205, 50, 0.837);}
 
 /* contect section end here  */
 
 /* footer area start here */
 
+.footer{background-color: #212529;
+color: white;
+height: 240px;
+margin: auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-left: 50px;
+padding-right: 50px;
+}
+.footer-img-1{height: 50px;
+width: 135px; 
+border: 1px solid white;
+border-radius: 5px;
+}
+.footer-img-2{height: 50px;
+   width: 135px; 
+   border: 1px solid white;
+   border-radius: 5px;
+   }
+.div-2{flex-direction: column;
+display: flex; 
+gap: 10px;}
+.div-2:hover{cursor: pointer;}
 
-.footer-img{height: 60px;
-width: 115px;
-padding-bottom: 15px;}
+.footer-line-1{display: flex;
+list-style-type: none;
+gap: 50px; padding-bottom: 20px;}
 
-.web-footer{ color: white;
-background-color: rgb(30, 29, 29);
-border: 2px solid black;
-height: 250px;}
+.footer-line-2{display: flex;
+   list-style-type: none;
+gap: 30px; padding-bottom: 20px;}
 
-#footer-text-1{font-size: 28px;
-padding-top: 10px;}
-
-#footer-text-2{font-size: 15px;}
-#footer-text-3{font-size: 15px;}
-
-.app-heading{font-size: 28px; 
-padding-bottom: 10px;}
-
-.web-footer{padding-left: 50px;}
+.div-1:hover{cursor: pointer;}
 
 /* footer area end here  */
 
